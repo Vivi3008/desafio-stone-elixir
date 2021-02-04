@@ -1,0 +1,13 @@
+{
+    "name": "programa-stone",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "ts-node-dev --transpile-only --ignore-watch node_modules index.ts"
+    },
+    "devDependencies": {
+        "ts-node-dev": "^1.1.1",
+        "typescript": "^4.1.3"
+    }
+}
